@@ -1,0 +1,15 @@
+.delivery-menu {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    &-title {
+        color: var(--text-orange)
+    }
+    &-list {
+        // padding: 20px;
+        display: flex;
+        gap: 20px;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+}

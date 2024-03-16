@@ -1,0 +1,29 @@
+{
+    "welcome": "Добро пожаловать!",
+    "signUp": "Зарегистрироваться",
+    "signIn": "Войти",
+    "signInWithGoogle": "Войти с помощью Google",
+    "logout": "Выйти",
+    "menu": "Меню",
+    "find": "Поиск",
+
+    "from": "от",
+    "added": "Добавлено",
+
+    "online": "На сайте",
+    "card": "Карта",
+    "cash": "Наличные",
+
+    "or": "Или",
+    "alreadyHaveAnAccount": "Уже зарегистрированы?",
+    "yourOrder": "Ваш заказ",
+    "deliveryAddress": "Адрес доставки",
+    "paymentType": "Способ оплаты",
+    "noOrders": "Заказов еще нет",
+    "order": "Заказ",
+    "delivery": "Доставка",
+    "total": "Итого",
+    "validePurchase": "Подтвердить заказ",
+
+    "orderCreated": "Заказ создан"
+}

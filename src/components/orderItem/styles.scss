@@ -1,0 +1,47 @@
+.delivery-order-item {
+    background: #fff;
+    box-shadow: 5px 5px 5px #e6e6e6;
+    border-radius: 20px;
+    padding: 10px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    &-content {
+        display: flex;
+        gap: 10px;
+        width: 50%;
+        img {
+            border-radius: 10px;
+            width: 100px;
+            height: 60px;
+            object-fit: cover;
+        }
+        &-title {
+            color: var(--text-main);
+            font-weight: bold;
+        }
+        &-price {
+            color: var(--text-secondary);
+            font-weight: bold;
+        }
+    }
+    &-count {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        &-display {
+            font-size: 20px;
+            font-weight: bold;
+            color: var(--text-orange)
+        }
+        &-btn {
+            cursor: pointer;
+            border: 1px solid #dddddd;
+            background: transparent;
+            border-radius: 50px;
+            font-weight: bold;
+            width: 30px;
+            height: 30px;
+        }
+    }
+}

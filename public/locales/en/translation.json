@@ -1,0 +1,29 @@
+{
+    "welcome": "Welcome!",
+    "signUp": "SignUp",
+    "signIn": "SignIn",
+    "signInWithGoogle": "SignIn with Google",
+    "logout": "Logout",
+    "menu": "Menu",
+    "find": "Find",
+
+    "from": "from",
+    "added": "Added",
+
+    "online": "Online",
+    "card": "Card",
+    "cash": "Cash",
+
+    "or": "Or",
+    "alreadyHaveAnAccount": "Already have an account?",
+    "yourOrder": "Your order",
+    "deliveryAddress": "Delivery address",
+    "paymentType": "Payment type",
+    "noOrders": "No orders yet",
+    "order": "Order",
+    "delivery": "Delivery",
+    "total": "Total",
+    "validePurchase": "Valide purchase",
+
+    "orderCreated": "Order created"
+}
