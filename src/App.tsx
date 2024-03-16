@@ -32,9 +32,8 @@ function App() {
                     photoUrl: user.photoURL
                 } 
               dispatch(setUser(userUpd))
-              navigate('/menu')
             } else {
-                navigate('/login')
+                navigate('/')
             }
           }); 
     }, [])
